@@ -6,14 +6,14 @@ Welcome to the Build-a-GitHub Bot workshop!
 What are GitHub bots?
 ---------------------
 
-Applications that runs automation on GitHub, using GitHub WebHooks and APIs.
+Applications that perform automation on GitHub, using GitHub WebHooks and APIs.
 
 What can bots do?
 -----------------
 
-Many things: it can automatically respond to users, apply labels, close issues,
-create new issues, and even merge pull requests. Use the extensive GitHub APIs
-and automate your workflow!
+Many things: they can automatically respond to users, apply labels, close issues,
+create new issues, and even merge pull requests. Use the extensive
+`GitHub APIs <https://developer.github.com/>`__ and automate your workflow!
 
 Why use bots?
 -------------
